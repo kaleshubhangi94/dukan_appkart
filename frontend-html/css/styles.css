@@ -1,0 +1,17 @@
+header nav a:hover {
+    text-decoration: underline;
+  }
+  
+  section {
+    margin-top: 20px;
+  }
+  
+  form input {
+    border-radius: 5px;
+  }
+  
+  footer {
+    margin-top: 40px;
+    font-size: 14px;
+  }
+  
